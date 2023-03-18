@@ -1,0 +1,5 @@
+EntityA => UniversityEntity
+EntityB => StudentEntity
+
+EntityC =>  DoctorEntity
+EntityD =>  PatientEntity
